@@ -1,0 +1,10 @@
+Apr 27, 2026 9:13:18 PM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: Akashjain143
+Apr 27, 2026 9:13:18 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3352.v17a_fb_4b_2773f
+Apr 27, 2026 9:13:18 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Akash\remoting as a remoting work directory
+Apr 27, 2026 9:13:19 PM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Apr 27, 2026 9:13:19 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
